@@ -8,13 +8,13 @@ const Footer = () => {
     <div className="footer-container">
       <p>Built by Aaron Durant in 2022</p>
       <p className="icons">
-        <a href="https://nextjs.org" target="_blank">
+        <a href="https://nextjs.org" target="_blank" rel="noreferrer">
           <SiNextdotjs />
         </a>
-        <a href="https://stripe.com" target="_blank">
+        <a href="https://stripe.com" target="_blank" rel="noreferrer">
           <FaCcStripe />
         </a>
-        <a href="https://github.com/AaronRDurant/tech-commerce" target="_blank">
+        <a href="https://github.com/AaronRDurant/tech-commerce" target="_blank" rel="noreferrer">
           <AiOutlineGithub />
         </a>
       </p>
