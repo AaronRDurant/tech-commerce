@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tech Commerce 🛒
 
-## Getting Started
+![Simple e-commerce website by Aaron Durant](public/assets/tech-commerce-screenshot.png "An e-commerce website by Aaron Durant")
 
-First, run the development server:
+Yet to work with Stripe or build an e-commerce website, I set off in May 2022 to make something quick and straightforward that would afford me some initial experience with these tools and concepts.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Implementing Stripe was a joy, and I hope to use it for future projects. I'm also delighted to have a project utilizing a content management system like Sanity.io after years and years of using WordPress. Similarly, this was my first time using Next.js, which expanded my toolbox more!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## To Do ✅
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+I accomplished the goal of creating a simple e-commerce website. Still, I could always change up the content in Sanity.io and build the site out to have more pages and more of a purpose beyond simply demonstrating e-commerce functionality.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Author 👨🏻‍💻
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Aaron Durant // [aarondurant.com](https://aarondurant.com) // [@AaronRDurant](https://twitter.com/AaronRDurant)
